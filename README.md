@@ -1,2 +1,2 @@
 # pineapple
-@ppl!c@t!0n
+@ ppl!c@ t!0n
